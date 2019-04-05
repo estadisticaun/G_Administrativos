@@ -1,74 +1,4 @@
 
-/autoFill.dataTables.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/cs[0Ks
-/autoFill.foundation.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/cs[0Ks
-/autoFill.jqueryui.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/cs[0Ks
-/autoFill.semanticui.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js[0K/
-autoFill.bootstrap.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js[0K/
-autoFill.bootstrap4.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js[0K/
-autoFill.foundation.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js[0K/
-autoFill.jqueryui.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js[0K/
-autoFill.semanticui.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFill/js[0K/
-dataTables.autoFill.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css[0K/
-buttons.bootstrap.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css[0K/
-buttons.bootstrap4.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css[0K/
-buttons.dataTables.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css[0K/
-buttons.foundation.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css[0K/
-buttons.jqueryui.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/css[0K/
-buttons.semanticui.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.bootstrap.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.bootstrap4.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.colVis.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.flash.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.foundation.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.html5.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.jqueryui.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.print.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kb
-uttons.semanticui.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kd
-ataTables.buttons.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kj
-szip.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kp
-dfmake.min.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/js/[0Kv
-fs_fonts.js[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Buttons/swf[0K/
-flashExport.swf[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kc
-ss/colReorder.bootstrap.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kc
-ss/colReorder.bootstrap4.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kc
-ss/colReorder.dataTables.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kc
-ss/colReorder.foundation.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kc
-ss/colReorder.jqueryui.min.css[0m[0K
-        [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kc
 ss/colReorder.semanticui.min.css[0m[0K
         [0;32mnew file:   20181/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReorder/[0Kj
 s/dataTables.colReorder.min.js[0m[0K
@@ -1030,5 +960,73 @@ no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Administrativo[0Ks
 /G_Administrativos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/source-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/windowlayoutstate.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-D6E784BE/5C8DA749.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Administrativo[0Ks
+/G_Administrativos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hA[0Kj[0Ku[0Ks[0Kt[0Ke[0K[25G[?25l$ git commit -m "Ajuste e[0K[?25hj[0Ke[0K[29G[?25l$ git commit -m "Ajuste eje y[0K[?25h[31G[?25l$ git commit -m "Ajuste eje y g[0K[?25hr[0Ká[0K[?25l$ git commit -m "Ajuste eje y gr[0K[?25h[?25l$ git commit -m "Ajuste eje y g[0K[?25h[?25l$ git commit -m "Ajuste eje y[0K[31G[?25h[?25l$ git commit -m "Ajuste eje y s[0K[?25he[0Kr[0Ki[0Ke[0K[37G[?25l$ git commit -m "Ajuste eje y serie d[0K[?25h[?25l$ git commit -m "Ajuste eje y serie[0K[37G[?25h[?25l$ git commit -m "Ajuste eje y serie s[0K[?25he[0Kd[0Ke[0K[42G[?25l$ git commit -m "Ajuste eje y serie sede a[0K[?25hs[0K[?25l$ git commit -m "Ajuste eje y serie sede a[0K[?25h[?25l$ git commit -m "Ajuste eje y serie sede[0K[42G[?25h[?25l$ git commit -m "Ajuste eje y serie sede u[0K[?25hb[0Ki[0Kc[0Ka[0Kc[0Ki[0Kó[0Kn[0K"[0K[?25l
+[0K[?25h[master d6e7eaf] Ajuste eje y gserie sede ubicación[0K[?25l
+ 9 files changed, 1088 insertions(+), 60 deletions(-)[0K
+ rewrite .Rproj.user/B994EF53/console06/INDEX001 (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-8CC37197 => s-D6E784BE}/5C8DA749 (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-8CC37197 => s-D6E784BE}/5C8DA749-contents (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-8CC37197 => s-D6E784BE}/lock_file (100%)[0K
+ rewrite 20181/S_sede.html (80%)[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Administrativo[0Ks
+/G_Administrativos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 14, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (12/12), done.[0K
+Writing objects: 100% (14/14), 7.78 KiB | 3.89 MiB/s, done.[0K
+Total 14 (delta 5), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[0K[?25l
+[0K[?25hTo https://github.com/estadisticaun/G_Administrativos.git[0K[?25l
+   8731cd4..d6e7eaf  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Administrativo[0Ks
+/G_Administrativos[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Administrativos/G_Administrativos[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Administrativos/G_[0KA
+dministrativos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ks[0Kt[0Ku[0K[?25l$ git stst[0K[?25h[?25l$ git sts[0K[?25h[?25l$ git st[0K[?25ha[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/B3AB12A3[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-D6E784BE/5C8DA749[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-D6E784BE/5C8DA749-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-D6E784BE/lock_file[0m[0K
+        [0;31mmodified:   20181/T_edad.html[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-AFCDC9B7/[0m[0K
+        [0;31m20182/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Administrativos/G_[0KA
+dministrativos[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
